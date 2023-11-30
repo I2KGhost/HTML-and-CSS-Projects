@@ -1,4 +1,4 @@
-alert("WARNING! WARNING!");
+alert("Red and Green Color");
 // Function script
 function My_First_Function() {
   var String = "Kiss me, I'm Irish";
