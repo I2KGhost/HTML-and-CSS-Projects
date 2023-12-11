@@ -1,0 +1,38 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+th,
+td {
+  padding: 12px;
+  text-align: left;
+}
+
+th {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+table {
+  background-color: #f2f2f2;
+}
+
+th {
+  color: #333;
+}
+
+tr:hover {
+  background-color: #ddd;
+}
+
+table,
+th,
+td {
+  border: 1px solid #ddd;
+}
+
+th {
+  border: 1px solid #ddd;
+}

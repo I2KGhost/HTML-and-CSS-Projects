@@ -5,3 +5,6 @@ p {
   text-align: center;
 }
 /* This is a commnet */
+table {
+  text-shadow: 2px 2px 5px red;
+}
